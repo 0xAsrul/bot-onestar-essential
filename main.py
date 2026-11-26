@@ -7,9 +7,9 @@ Writes a single-line, deadpan one-star review of an everyday essential
 import os
 
 REVIEW = (
-    "One star. Gravity has pulled everything down since the dawn of time "
-    "and has never once offered to carry a single thing back up. "
-    "Rude, honestly."
+    "One star. Gravity drops everything I own, every single day, and "
+    "has never once caught a thing, apologised, or helped pick it up. "
+    "No refund policy."
 )
 
 
